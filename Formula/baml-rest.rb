@@ -5,7 +5,7 @@ class BamlRest < Formula
   desc "CLI tool for BAML REST server"
   homepage "https://github.com/invakid404/baml-rest"
   url "https://github.com/invakid404/baml-rest.git",
-      tag: "0.0.42"
+      tag: "0.0.43"
   license "MIT"
 
   depends_on "go" => :build
